@@ -13,7 +13,7 @@ Articles are added to the authors using the add_article method. author1 adds two
 5. Open a pull request against the main repository.
 
 ## Setup/Installation Requirements
-- Clone the repo {git clone https://github.com/AishaSalaam1/code-challenge-Articles-}
+- Clone the repo {git clone https://github.com/AishaSalaam1/code-challenge-Articles-Articles-}
 - and run the `index.js` file with live server vs code extension
 ## Live link
 - link # code-challenge-Articles-
