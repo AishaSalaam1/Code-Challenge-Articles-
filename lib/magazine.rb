@@ -1,4 +1,3 @@
-require_relative './article.rb'
 
 class Magazine
     attr_accessor :name, :category

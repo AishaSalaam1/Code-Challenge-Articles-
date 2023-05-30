@@ -1,5 +1,5 @@
 # Necessary files
-require_relative "../config/environment"
+require_relative "../config/environment.rb"
 
 # Instances of the classes
 author1 = Author.new("John Doe")
